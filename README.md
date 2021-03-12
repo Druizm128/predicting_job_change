@@ -54,9 +54,8 @@ The target value for prediction is included in the training and testing set.
 
 ## Benchmark model 
 
-- The best model AUC score will be compared to the following exercise from Joshua Swords , where he uses the same data and calculates de AUC for a wide range of models: SVC, Decision Tree, Random Forest, Logistic Regression and KNN)
-
-![image](fig/benchmarks.png)
+- The best model AUC score will be compared to the following exercise from [Joshua Swords](https://www.kaggle.com/joshuaswords/awesome-hr-data-visualization-prediction) , where he uses the same data and calculates de AUC for a wide range of models: SVC, Decision Tree, Random Forest, Logistic Regression and KNN)
+- 
 
 ## Evaluation metrics 
 
@@ -80,3 +79,4 @@ The target value for prediction is included in the training and testing set.
 - Sisodia, D. S., Vishwakarma, S., & Pujahari, A. (2017). Evaluation of machine learning models for employee churn prediction. https://0-doi-org.biblioteca-ils.tec.mx/DOI: 10.1109/ICICI.2017.8365293.
 - Punnoose, R., & Ajit, P. (2016). Prediction of Employee Turnover in Organizations using Machine Learning Algorithms. International Journal of Advanced Research in Artificial Intelligence, 5(9), 22–26. https://0-doi-org.biblioteca-ils.tec.mx/.
 - Yue Zhao, Maciej K. Hryniewicki, Francesca Cheng, Boyang Fu, & Xiaoyu Zhu. (2018). Employee Turnover Prediction with Machine Learning: A Reliable Approach. Intelligent Systems and Applications : Proceedings of the 2018 Intelligent Systems Conference (IntelliSys) Volume 2, 737. https://0-doi-org.biblioteca-ils.tec.mx/10.1007/978-3-030-01057-7_56
+- Swords, Joshua. 2021. Awesome HR Data Visualization & Prediction. Retrieved from the WWW on the 21 of march from 2021.  https://www.kaggle.com/joshuaswords/awesome-hr-data-visualization-prediction
