@@ -71,6 +71,25 @@ The target value for prediction is included in the training and testing set.
 6.	**Model evaluation**. The AUC score of models will be evaluated between fitted models and across other models fitted by Joshua Swords to establish a benchmark.
 7.	**Conclusion and final output**. A brief discussion of the findings will be presented and a list of enrollees from the testing set with the estimated probabilities will be turned in. 
 
+## Project structure:
+
+- `project.ipynb`: Jupyter notebook including the project code.
+- `data`: Includes the directory containing the raw training and testing datasets.
+
+## Instructions:
+
+In order to run the code:
+
+1. Clone this repository inside an Amazon Sagemaker instance (i.e ml.t2.medium)
+2. Run `project.ipynb`
+
+## Libraries used in this project:
+
+- numpy
+- pandas
+- sklearn
+- plotnine
+- sagemaker
 
 ## References:
 
