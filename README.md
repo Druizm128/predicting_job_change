@@ -1,4 +1,4 @@
-# Predicting job change
+# Predicting employee churn
 
 ## Project definition
 
